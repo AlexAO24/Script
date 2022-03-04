@@ -47,6 +47,9 @@ do
 		8)
 			break
 		;;
+		*)
+			echo "Escriba otro numero"
+		;;
 	esac
 done
 
